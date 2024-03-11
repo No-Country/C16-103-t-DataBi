@@ -81,9 +81,9 @@ Detección de fraude en transacciones de dinero móvil. Predecir si la transacci
 ![Dashbaord](Assets/Dashboard2.png) 
 
 
-+ `Proceso de ETL (Extracción, transformación y carga de datos)` [ETL]() 
++ `Proceso de ETL (Extracción, transformación y carga de datos)` 
 
-+ `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA]()
++ `Proceso de EDA (Análisis Exploratorio de los datos)`  [EDA](EDA/EDA.ipynb)
 
 Las primeras visualizaciones contienen el número de transacciones según el tipo de transacción, tipo de remitente y destinatario.
 
