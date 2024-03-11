@@ -134,7 +134,7 @@ Los valores atípicos pueden ser de dos tipos: univariados y multivariados. Arri
 + `Modelado de Machine Learning` 
 
 
-![Diagrama pasos](https://github.com/No-Country/C16-103-t-data-bi/blob/main/Assets/Imagen%20de%20WhatsApp%202024-02-25%20a%20las%2023.42.33_b517ffec.jpg)
+![Diagrama pasos](Assets/Blue-Pink-Gradient-Fashion-Banner-(2).gif)
 
 
   
